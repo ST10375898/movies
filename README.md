@@ -3,12 +3,12 @@
 This is a React JS web application aimed at giving people a platform where they can see what the latest movies are and search for any movies of their chioce.
 
 ## Installation process
-- Copy the Repository URL
-- Open Visual Studio Code
-- Click on clone Git Repository
-- Once the project is successfully installed open the command terminal
-- Run this command to run the project (npm run dev)
-- This will launch the application on a local server
+1. Copy the Repository URL
+2. Open Visual Studio Code
+3. Click on clone Git Repository
+4. Once the project is successfully installed open the command terminal
+5. Run this command to run the project (npm run dev) 
+6. This will launch the application on a local server
 
 
 ## Expanding the ESLint configuration
