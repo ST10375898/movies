@@ -10,7 +10,9 @@ This is a React JS web application aimed at giving people a platform where they 
 5. Run this command to run the project (npm run dev) 
 6. This will launch the application on a local server
 
+## How the web application works
+* Once you launch the application you will see the home screen with two sections which are:
+  - The popular movie section: This section shows all the movies that have more searches. This is made possible by an algorithm that tracks searches that are done for each movie. When the number of searches increases the algorithm will place the movie on the pupular section.
+  - The All movies section: This section shows all the latest movies. This section also shows all the search results whan a use searches for a movie.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
