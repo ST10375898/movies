@@ -1,11 +1,15 @@
-# React + Vite
+# Movie App
+## Find any movie you can think of
+- This is a React JS web application aimed at giving people a platform where they can see what the latest movies are and search for any movies of their chioce.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation process
+- Copy the Repository URL
+- Open Visual Studio Code
+- Click on clone Git Repository
+- Once the project is successfully installed open the command terminal
+- Run this command to run the project (npm run dev)
+- This will launch the application on a local server
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
