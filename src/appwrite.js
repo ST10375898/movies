@@ -1,8 +1,8 @@
 import { Client, Databases, ID, Query, } from "appwrite"
 
-const DATABASE_ID = import.meta.env.VITE_APPWRITE_DATABASE_ID
-const COLLECTION_ID= import.meta.env.VITE_APPWRITE_COLLECTION_ID
-const PROJECT_ID = import.meta.env.VITE_APPWRITE_PROJECT_ID
+const DATABASE_ID = "687a9323000a1fccf916"
+const COLLECTION_ID= "687a93970027f2a93641"
+const PROJECT_ID = "687a90c7001e6a573705"
 
 
 const client = new Client()
