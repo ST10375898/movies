@@ -1,6 +1,6 @@
 # Movie App
 ## Find any movie you can think of
-- This is a React JS web application aimed at giving people a platform where they can see what the latest movies are and search for any movies of their chioce.
+This is a React JS web application aimed at giving people a platform where they can see what the latest movies are and search for any movies of their chioce.
 
 ## Installation process
 - Copy the Repository URL
