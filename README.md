@@ -8,8 +8,9 @@ This project has been created through successfully following the jsmastery youtu
 2. Open Visual Studio Code
 3. Click on clone Git Repository
 4. Once the project is successfully installed open the command terminal
-5. Run this command to run the project (npm run dev) 
-6. This will launch the application on a local server
+5. Run this command to install the project (npm install)
+6. Run this command to run the project (npm run dev) 
+7. This will launch the application on a local server
 
 ## How the web application works 🧰
 * Once you launch the application you will see the home screen with two sections which are:
